@@ -1,3 +1,4 @@
 
 .vs/*
-/EFCoreSamples/bin/Debug/net7.0
+*/bin/*
+*/obj/*
